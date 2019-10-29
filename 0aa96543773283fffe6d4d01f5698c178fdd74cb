@@ -1,0 +1,1 @@
+{"jobID":"8c9034c1-6358-7ad3-f2e0-6497d45f267c","spec":{"type":"policy","cause":{"Message":"","User":"Alexander Matyushentsev \u003cAlexander_Matyushentsev@intuit.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
